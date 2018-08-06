@@ -1,0 +1,43 @@
+body {
+  font-family: "Proxima Nova";
+  background: #f9f9f9; }
+
+button:focus {
+  outline: none; }
+
+.container {
+  text-align: center;
+  width: 1200px;
+  margin: auto; }
+
+.row {
+  display: flex;
+  justify-content: space-around; }
+
+.card-title {
+  margin-top: 100px;
+  margin-bottom: 125px;
+  font-size: 36px;
+  font-weight: 400; }
+
+.cart-img {
+  min-width: 263px;
+  min-height: 210px;
+  margin-bottom: 15px;
+  background: #ffffff; }
+
+.name-cart {
+  margin-bottom: 25px;
+  font-size: 16px;
+  font-weight: 300; }
+
+.price {
+  margin-bottom: 25px;
+  font-size: 18px;
+  font-weight: 700; }
+
+.button {
+  border: 1px solid #23bac1;
+  color: #23bac1;
+  padding: 23px 75px;
+  background-color: transparent; }

@@ -1,0 +1,24 @@
+body {
+  font-family: 'Roboto', sans-serif; }
+
+.header {
+  background-color: #ffffff; }
+
+.heder-contacts {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center; }
+
+.header-phone {
+  font-size: 22px;
+  margin-right: 12px; }
+
+.button-active {
+  background-color: #ff9d00;
+  padding: 17px 18px;
+  font-size: 14px;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px; }
+  .button-active img {
+    vertical-align: middle; }
